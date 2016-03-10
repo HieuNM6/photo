@@ -5,3 +5,9 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+10.times do |i|
+	Picture.create(username: Faker::Name.name, caption: Faker::Lorem.paragraph, 
+		likes_count: Faker::Number.number(3),
+		url: Faker::Avatar.image)
+end

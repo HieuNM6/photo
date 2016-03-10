@@ -4,3 +4,31 @@ one:
   created_at: <%= Time.at(1447202511).to_s(:db) %>
   likes_count: 10561
   url: "https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/11849082_426726797521665_1141520805_n.jpg"
+
+two:
+  username: obama
+  caption: "let blow up Russia!!!"
+  created_at: <%= Time.at(1447202511).to_s(:db) %>
+  likes_count: 10561
+  url: "https://entp-tender-production.s3.amazonaws.com/assets/e83da17c5f204b22d1fa46279f15c0884663f164/screenshot0.png?AWSAccessKeyId=AKIAISVUXXOK32ATONEQ&Expires=1773190622&Signature=7XOHj1HpKjbRuJsPBcBZQROuBIg%3D"
+
+  
+
+  three:
+  username: puteen
+  caption: "let blow up America!!!"
+  created_at: <%= Time.at(1447202511).to_s(:db) %>
+  likes_count: 10561
+  url: "https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/11849082_426726797521665_1141520805_n.jpg"
+
+  
+
+  four:
+  username: Dong Phuong Bat Bai
+  caption: "xiaocakai xiqao xi xao"
+  created_at: <%= Time.at(1447202511).to_s(:db) %>
+  likes_count: 10561
+  url: "https://scontent.cdninstagram.com/hphotos-xft1/t51.2885-15/s640x640/sh0.08/e35/11849082_426726797521665_1141520805_n.jpg"
+
+  
+
